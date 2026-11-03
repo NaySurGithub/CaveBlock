@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "CaveBlock Resource Pack",
+        "description": "Cave Block model and textures for the CaveBlock plugin",
+        "uuid": "cbe870f9-231e-430b-9eab-197abacc0ded",
+        "version": [
+            1,
+            0,
+            1
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "85882663-d3a6-493a-8ab3-9073318e9d00",
+            "version": [
+                1,
+                0,
+                1
+            ]
+        }
+    ]
+}

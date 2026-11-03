@@ -1,0 +1,18 @@
+# Whitelist: ignore everything, then re-include tracked files only.
+/*
+
+!/.gitignore
+!/.github/
+!/README.md
+!/LICENSE
+!/build.gradle.kts
+!/settings.gradle.kts
+!/gradle.properties
+!/gradlew
+!/gradlew.bat
+!/gradle/
+!/src/
+!/.jarbage/
+
+# macOS folder metadata
+.DS_Store

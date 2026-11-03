@@ -1,0 +1,7 @@
+name: CaveBlock
+main: io.github.naysurgithub.caveblock.CaveBlockPlugin
+version: "${version}"
+api: ["3.0.0"]
+author: NaySurGithub
+description: A block you see through, along with the rock behind it, straight into the caves.
+website: https://github.com/NaySurGithub/CaveBlock
