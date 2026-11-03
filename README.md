@@ -34,13 +34,6 @@ into the Cave Block shows straight through the rock until the next open space.
 The plugin adds the `voxel_shapes` experiment to what the server sends players
 at login (no need to edit `pnx.yml`).
 
-## Known limits
-
-- Some vanilla blocks (sand, gravel, …) still draw the face touching the Cave
-  Block, so they look solid through it.
-- The view goes as far as the client renders the rock, so it stops at the
-  first open space (a cave, the surface).
-
 ## Requirements
 
 PowerNukkitX 3.0.6+ · Java 21 · Bedrock 1.26.x
